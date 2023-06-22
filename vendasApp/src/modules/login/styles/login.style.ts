@@ -6,4 +6,5 @@ export const ContainerLogin = styled.View`
   background-color: pink;
   justify-content: center;
   align-items: center;
+  padding: 16px;
 `;
