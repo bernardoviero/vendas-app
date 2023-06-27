@@ -12,7 +12,7 @@ const Login = () => {
   return (
     <View>
       <ContainerLogin>
-        <Input />
+        <Input title="Email" />
         <Button
           margin="16px"
           type={theme.buttons.buttonsTheme.primary}
